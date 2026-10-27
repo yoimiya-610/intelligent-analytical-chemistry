@@ -68,7 +68,7 @@
 9. Hansch, Corwin; Fujita, Toshio. <a href="https://doi.org/10.1021/ja01062a035" target="_blank" rel="noopener">ρ-σ-π Analysis. A Method for the Correlation of Biological Activity and Chemical Structure</a> [J]. Journal of the American Chemical Society, 1964, 86(8): 1616–1626. DOI: 10.1021/ja01062a035
    - 用途：将疏水性与电子效应共同用于结构—活性关系，说明性质相关信息通常需要多个互补描述符。
 
-10. Verloop, A.; Hoogenstraaten, W.; Tipker, J.. <a href="https://doi.org/10.1016/B978-0-12-060307-7.50010-9" target="_blank" rel="noopener">Development and Application of New Steric Substituent Parameters in Drug Design</a> [M]. In Drug Design; Ariëns, 1976, E. J.: Ed.; Academic Press; Vol. VII, Chapter 4, pp 165–207. DOI: 10.1016/B978-0-12-060307-7.50010-9
+10. Verloop, A.; Hoogenstraaten, W.; Tipker, J.. <a href="https://doi.org/10.1016/B978-0-12-060307-7.50010-9" target="_blank" rel="noopener">Development and Application of New Steric Substituent Parameters in Drug Design</a> [M]. In Drug Design; Ariëns, E. J., Ed.; Academic Press, 1976; Vol. VII, Chapter 4, pp 165–207. DOI: 10.1016/B978-0-12-060307-7.50010-9
    - 用途：用沿连接轴的长度和垂直方向的宽度表示取代基位阻；保留方向性的形状信息比单一体积更适合某些选择性问题。
 
 11. Brethomé, Alexandre V.; Fletcher, Stephen P.; Paton, Robert S.. <a href="https://doi.org/10.1021/acscatal.8b04043" target="_blank" rel="noopener">Conformational Effects on Physical-Organic Descriptors: The Case of Sterimol Steric Parameters</a> [J]. ACS Catalysis, 2019, 9(3): 2313–2323.（预印本发表于 2018；正式论文发表于 2019 年。） DOI: 10.1021/acscatal.8b04043

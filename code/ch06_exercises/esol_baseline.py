@@ -1,6 +1,7 @@
 """第6章：ESOL真实数据的描述符与指纹基线，以及随机/骨架留出对照。
 
-python esol_baseline.py --data data/delaney-processed.csv --output results/esol
+从仓库根目录运行：python code/ch06_exercises/esol_baseline.py --output results/esol
+省略--data时，默认读取仓库内的data/ch06/delaney-processed.csv。
 依赖：rdkit, numpy, matplotlib（仅画图）。参数预先固定，不使用测试集调参。
 数据来源：https://github.com/deepchem/deepchem/blob/master/datasets/delaney-processed.csv
 原始研究：Delaney, 2004, DOI 10.1021/ci034243x。
@@ -257,6 +258,6 @@ def make_plots(out, predictions, summary):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--data', type=Path, default=Path(__file__).parent / 'data/delaney-processed.csv')
+    parser.add_argument('--data', type=Path, default=Path(__file__).resolve().parents[2] / 'data/ch06/delaney-processed.csv')
     parser.add_argument('--output', type=Path, default=Path('results/esol'))
     run(parser.parse_args())
